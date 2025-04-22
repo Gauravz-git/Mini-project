@@ -1,5 +1,5 @@
 /*Base class Person (name, age), class Employee (salary), class Manager (department). 
-Inherit and display full details.*/
+Inherit and display full details...*/
 
 
 class Manager extends Person {
